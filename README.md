@@ -60,4 +60,18 @@
   
 <br>
 
-## 
+## 사용된 라이브러리
+| **라이브러리** | **라이선스** |
+|:-------------|:---------|
+| gson | Apache License 2.0 |
+| Firebase | Apache License 2.0 |
+| Kakao SDK | Apache License 2.0 |
+| paho | Eclipse Public License 2.0 |
+| Lombok | Apache License 2.0 |
+| tedpermission | Apache License 2.0 |
+| OpenCV | BSD License |
+| lottie | Apache License 2.0 |
+| Android Material Components | Apache License 2.0 |
+| AutoDraw | Attribution 4.0 International Public License |
+| Glide | Apache License 2.0 |
+
