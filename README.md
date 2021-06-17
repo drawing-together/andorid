@@ -11,6 +11,14 @@
   
 <br>
 
+## 실행화면  
+  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/43202607/122442343-71db9180-cfd9-11eb-9248-76ae2bd2f9be.gif" width="800" height="500">
+</p>  
+  
+<br>
+
 ## 화면설명  
   
 <p align="center">
